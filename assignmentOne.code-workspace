@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../../class2"
+		},
+		{
+			"path": "../../classwork"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "assignment folder"
+	}
+}
